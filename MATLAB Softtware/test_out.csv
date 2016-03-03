@@ -1,0 +1,12 @@
+tip deflection: 24mm
+DIC path: D:\acooperman\Desktop\DIC\20150520\test\output\disp-456_0.csv
+MEMS file: D:\acooperman\My Documents\Luna beam\testMay\disp24mm1
+# samples averaged: 5
+# points along axis: 300
+DIC files,MSE,NRMSE,NMSE
+456,125.86,-2.6964,-12.663
+457,125.91,-2.7039,-12.719
+458,125.88,-2.6973,-12.67
+459,125.92,-2.6986,-12.68
+460,125.9,-2.6941,-12.646
+461,125.87,-2.6959,-12.66
